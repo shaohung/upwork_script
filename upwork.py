@@ -67,11 +67,3 @@ for i in range(47,57):
             print('error')
             pass
 
-    #glb.browser.find_element_by_link_text('Next').click()
-        
-    
-        
-    #names = soup.find_all(attrs={'data-ng-bind-html': '::(name | truncateByChars: charsThreshold)'}) # .string
-    #rates = soup.find_all(attrs={'data-is-fixed':'::(freelancer.fixedAmount.amount > 0)'}) # .attrs['data-rate]
-    #countries = soup.find_all(attrs={'data-ng-attr-title':'{{ fullLocationLabel }}', 'class':'hidden-xs'}) # .attrs['title']
-
